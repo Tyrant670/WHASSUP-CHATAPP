@@ -1,4 +1,4 @@
-# angularChat
+# WHASSUP CHAT
 Real-time dynamic chat application build on pusher platform.
 
 ## Screenshot
