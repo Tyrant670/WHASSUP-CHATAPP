@@ -2,7 +2,8 @@
 Real-Time chat application using Socket.io in Node.js
 
 ## Screenshot
-![image](https://github.com/sarthakChauhan12/angularChat/assets/104530435/53ec6ab8-cc0c-4a32-a0fe-b203f2f8e216)
+![image](https://github.com/Tyrant670/WHASSUP-CHATAPP/blob/master/Screenshot%20from%202023-12-02%2023-20-27.png)
+![image](https://github.com/Tyrant670/WHASSUP-CHATAPP/blob/master/Screenshot%20from%202023-12-02%2023-20-43.png)
 
 
 ## Starting Commands
